@@ -1,10 +1,9 @@
 -👋 Hi, my name is Olayinka.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 -👋 I'm a Data Analyst and Python Programmer.
 -👀 I’m interested in Data and Business Analytics.
 -🔭🌱 I currently use Python to complement SQL and Power BI/Tableau in data querying, manipulation and visualization.
 -📫 When I'm not coding, I'm either learning for further skill development or enjoying my leisure time watching movies.
 -👯 I’m looking to collaborate on projects that would help me improve my skills and experience.
-- 📫 How to reach me: ibitowaoa@gmail.com
-- ⚡ Fun fact: Enjoying every moment
--->
+- 📫 How to reach me: ibitowaoa@gmail.com.
+- ⚡ Fun fact: Enjoying every moment.
