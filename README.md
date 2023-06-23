@@ -1,5 +1,5 @@
 -👋 Hi, my name is Olayinka.
-- 😄 Pronouns: He/Him.
+-😄 Pronouns: He/Him.
 -👋 I'm a Data Analyst and Python Programmer.
 -👀 I’m interested in Data and Business Analytics.
 -🔭🌱 I currently use Python to complement SQL and Power BI/Tableau in data querying, manipulation and visualization.
