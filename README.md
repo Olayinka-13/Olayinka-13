@@ -7,4 +7,5 @@
 - 📫 When I'm not working, I'm either learning for further skill development or enjoying my leisure time watching movies.
 - 👯 I’m looking to collaborate on projects that would help me improve my skills and experience.
 - 📫 How to reach me: ibitowaoa@gmail.com.
+- 📫 My visuals on Novypro: https://www.novypro.com/profile_projects/novypro-member---04lt
 - ⚡ Fun fact: Enjoying every moment.
